@@ -1,6 +1,6 @@
 # Caesar Cipher Python Program
 
-This project implements the caesar Cipher algorithm, allowing users to cencrtpt and decrypt text using a specified shift value.
+This project implements the caesar Cipher algorithm, allowing users to encrtpt and decrypt text using a specified shift value.
 
 ## Features
 - Encrypt a given plaintext message.
